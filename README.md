@@ -1,2 +1,2 @@
 # spring-swagger
-spring-swagger
+Swagger integration 
